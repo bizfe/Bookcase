@@ -17,3 +17,15 @@
 |黄金时代|自认小波最好的一部小说|jz|-|
 |他们最幸福|大冰著，感觉很一般，鉴于组里好多大冰粉丝就列上|jz|-|
 |设计中的设计|MUJI的设计师|jz|-|
+|移动web手册|ppk新作，对webapp开发的一些研究|kugua|-|
+|深入浅出nodejs|不介绍了，应该都听过这本书|kugua|-|
+|javascript异步编程|讲解js异步处理的书|kugua|-|
+|css权威指南|css字典工具书|kugua|-|
+|javacript模式|这本书没太仔细看|kugua|-|
+|javacript高级程序设计(三)|js圣经|kugua|-|
+|FLask web开发|python web开发，感觉比较浅显，可以直接看flask文档|kugua|-|
+|Node与Express开发|w3ctech 赠书，适合入门|kugua|-|
+|无比芜杂的心绪|春上春树的杂文集|kugua|-|
+|预知社会--群体行为的内在法则|新书，没还看 :)|kugua|-|
+|民主的细节|通过作者在美国生活的点滴讲美国民主，作者的另一本《观念的水位》一并强烈推荐|kugua|-|
+
