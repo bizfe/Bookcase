@@ -40,4 +40,4 @@
 |爱的艺术|心理学，没对象的可以研究下|jz|-|
 |大唐狄公案|一个外国人写的狄仁杰破案录，挺有意思|jz|-|
 |诗人与小树|儿童诗集，适合所有年龄|jz|-|
-
+|svnbook-1.4|svn使用手册，对merge的讲解很到位|[webpage]|https://i18n-zh.googlecode.com/svn/www/svnbook-1.4/|
