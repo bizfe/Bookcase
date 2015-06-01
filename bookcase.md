@@ -41,3 +41,4 @@
 |大唐狄公案|一个外国人写的狄仁杰破案录，挺有意思|jz|-|
 |诗人与小树|儿童诗集，适合所有年龄|jz|-|
 |svnbook-1.4|svn使用手册，对merge的讲解很到位|[webpage]|https://i18n-zh.googlecode.com/svn/www/svnbook-1.4/|
+|碧色寨|以滇越铁路为背景的一部小说，还行，但情节还不够丰富|jz|-|
