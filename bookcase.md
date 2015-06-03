@@ -42,3 +42,21 @@
 |诗人与小树|儿童诗集，适合所有年龄|jz|-|
 |svnbook-1.4|svn使用手册，对merge的讲解很到位|[webpage]|https://i18n-zh.googlecode.com/svn/www/svnbook-1.4/|
 |碧色寨|以滇越铁路为背景的一部小说，还行，但情节还不够丰富|jz|-|
+|第三浪|一本老书了，讲的2000年到2012年可能发生的互联网更迭|wilee|-|
+|怪诞行为学|看老罗的演讲推荐的，励志类书籍|wilee|-|
+|便携高质量代码|适合前端入门的看，感觉对现在的前端来说有点老了|wilee|-|
+|基于MVC的JavaScript Web富应用开发|-|wilee|-|
+|伟大的博弈|金融行业的入门书籍，很多没看明白，值得再读|wilee|-|
+|JavaScript权威指南|javascript的入门书籍，值得反复阅读|wilee|-|
+|读心术|教人识别面部表情，可当闲杂书籍翻阅|wilee|-|
+|吸引力法则|励志书籍，推荐先看视频：http://www.iqiyi.com/w_19rs4uxgt1.html|wilee|-|
+|百年孤独|看没有到一半真心看不下去了|wilee|-|
+|HTML5开发精要与实例讲解|好久以前买的，不推荐|wilee|-|
+|HTTP权威指南|HTTP实用手册，web开发基础|wilee|-|
+|伟大的历史|老外写的中国历史，推荐|wilee|-|
+|思考的乐趣|http://www.matrix67.com/blog/这哥们的博客整理，蛮有意思是的，不过我看不懂|wilee|-|
+|激荡三十年（上、下）|-|wilee|-|
+|JavaScript高级程序设计|与犀牛书齐名的JavaScript入门指南|wilee|-|
+|世界是平的|信息化的社会越来越趋向于扁平化|wilee|-|
+|黑客与画家|-|wilee|-|
+|相逢（张小娴）|把妹必备良句|wilee|-|
