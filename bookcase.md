@@ -67,3 +67,4 @@
 |javascript框架设计|分析了很多jq的设计和原理|kugua|-|
 |react:引领未来的用户界面开发框架|reacjs的国内第一本书籍, 应该是入门书|kugua|-|
 |文明之光(第一册)|讲解人类文明的历程，本书分为多册|kugua|-|
+|AngularJS权威教程|深度讲解AngularJS用法|zhaoa4l|-|
