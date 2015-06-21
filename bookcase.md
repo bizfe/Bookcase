@@ -76,3 +76,13 @@
 |-|生活在别处|-|jz|-|
 |-|霍乱时期的爱情|-|jz|-|
 |5|中国国家地理（2014全年）|-|jz|-|
+|-|深入理解计算机系统（Second Edition）|-|hirra|-|
+|-|Web前端黑客技术揭秘|-|hirra|-|
+|-|MongoDB权威指南|-|hirra|-|
+|-|围城|-|hirra|-|
+|-|CSS权威指南|-|hirra|-|
+|-|编程珠玑|-|hirra|-|
+|-|Visual Basic从入门到精通|-|hirra|-|
+|-|Android游戏编程从零开始|-|hirra|-|
+|-|Android开发精要|-|hirra|-|
+|-|计算方法|-|hirra|-|
