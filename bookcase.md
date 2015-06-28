@@ -86,3 +86,32 @@
 |-|Android游戏编程从零开始|-|hirra|-|
 |-|Android开发精要|-|hirra|-|
 |-|计算方法|-|hirra|-|
+|-|Node.js实战|-|jeason|-|
+|-|Node.js权威指南|-|jeason|-|
+|-|Node.js开发实战详解|-|jeason|-|
+|-|深入浅出Node.js|-|jeason|-|
+|-|移动web手册|-|jeason|-|
+|-|Javascript高级程序设计|-|jeason|-|
+|-|Javascript面向对象编程指南|-|jeason|-|
+|-|Javascript设计模式|-|jeason|-|
+|-|基于MVC的javascript Web富应用开发|-|jeason|-|
+|-|jQuery技术内幕|-|jeason|-|
+|-|锋利的jQuery|-|jeason|-|
+|-|Sass和Compass设计师指南|-|jeason|-|
+|-|HTML5触摸界面设计与开发|-|jeason|-|
+|-|HTML5移动开发指南|-|jeason|-|
+|-|HTML5移动web开发实战|-|jeason|-|
+|-|HTML5游戏开发进阶指南|-|jeason|-|
+|-|HTML5敏捷实践|-|jeason|-|
+|-|HTML5 Canvas开发详解|-|jeason|-|
+|-|精通AngularJS|-|jeason|-|
+|-|AngularJS权威教程|-|jeason|-|
+|-|用AngularJS开发下一代web应用|-|jeason|-|
+|-|Flash ActionScript3.0殿堂之路|-|jeason|-|
+|-|水晶石技法 Flash商业交互设计|-|jeason|-|
+|-|Flash 3D特效|-|jeason|-|
+|-|ActionScript3.0游戏编程|-|jeason|-|
+|-|Flash全站互动设计|-|jeason|-|
+|-|写给大家看的色彩书|-|jeason|-|
+|-|交互设计指南|-|jeason|-|
+|-|设计改变一切|-|jeason|-|
